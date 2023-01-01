@@ -1,0 +1,47 @@
+      
+      
+body {
+    background-image: url("thumbnails/crdstable.jpg");
+   
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+    
+    text-align: center;
+    margin-top: 300px;
+    font-size: 40px;
+    
+}
+
+h1 {
+    color: goldenrod;
+    margin-bottom: 0px;
+}
+
+#message-el {
+    font-size: 50px;
+    margin-top: 10px;
+    font-style: italic;
+
+
+    
+}
+
+
+
+button {
+    cursor: pointer;
+    color:  #016f32;
+    width: 350px;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+    display: inline-block;
+    margin-bottom: 4px;
+    margin-top: 4px;
+    
+}
